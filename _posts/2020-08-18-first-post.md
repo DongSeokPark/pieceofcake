@@ -1,7 +1,7 @@
 ---
 title: "first post in eastStone git blog!"
 date: "2020-08-18 15:07:00"
-categories: daily life
+categories: dailyLife
 ---
 
 ​```
