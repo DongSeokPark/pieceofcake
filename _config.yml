@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "welcome to eastStone house"
+title                    : "eastStone blog"
 title_separator          : "-"
 subtitle                 : "Even if you walk little by little, let's not stop!"# site tagline that appears below site title in masthead
 name                     : "eastStone"
