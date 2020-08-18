@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2020-08-18 14:54:00 -0400
+title: "first post in eastStone git blog!"
+date: `r format(Sys.Date(), "%Y-%m-%d")`.
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
